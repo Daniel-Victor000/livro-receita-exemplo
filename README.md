@@ -1,6 +1,7 @@
 # Livro de receitas 
 
-Olá, este é o nosso livro de receitas.
+Olá, este é o nosso livro de receitas! Aprecie sem moderação :smile:
 
-- Ex1
-- Ex2
+- Feijoada Baiana
+- Sarapatel
+
